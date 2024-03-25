@@ -1,5 +1,8 @@
-### Hi there 👋
+# Hi 👋, I'm Salvador Chamizo Viruelt
 
+## About Me
+
+I'm currenly learning *C Programming Language* in 42School, in Málaga.
 <!--
 **SalvadorChamizo/SalvadorChamizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +20,7 @@ Here are some ideas to get you started:
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p>
 <a href="https://github.com/SalvadorChamizo">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=SalvadorChamizo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=SalvadorChamizo&layout=compact&langs_count=8&theme=algolia"/>
@@ -26,12 +29,12 @@ Here are some ideas to get you started:
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
-  <ul align="center">
+  <ul>
     <summary><h2 style="display: inline-block">Technologies That I Know👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <!--tech stack icons-->
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,git,github,ai,ps,vim,vscode,gmail,discord&perline=14" />
   </a>
