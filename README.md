@@ -2,7 +2,9 @@
 
 ## About Me
 
-I'm currenly learning *C Programming Language* in 42School, in Málaga.
+🌱 I'm currenly learning *C Programming Language* in 42School, in Málaga.  
+
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/schamizo?1337Badge=off&UM6P=off" alt="schamizo's 42 stats" /></a>
 <!--
 **SalvadorChamizo/SalvadorChamizo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
