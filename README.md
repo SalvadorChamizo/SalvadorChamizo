@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,c++,git,github,ai,ps,vim,vscode,gmail,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,git,github,ai,ps,vim,vscode,gmail,discord&perline=14" />
   </a>
 </p>
