@@ -2,7 +2,7 @@
 
 ## About Me
 
-🌱 I'm currenly learning *C Programming Language* in 42School, in Málaga.  
+🌱 I'm currenly learning *C and C++ Programming Languages* in 42School, in Málaga.  
 
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/schamizo?1337Badge=off&UM6P=off" alt="schamizo's 42 stats" /></a>
 <!--
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 <!--tech stack icons-->
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,git,github,ai,ps,vim,vscode,gmail,discord&perline=14" />
+    <img src="https://skillicons.dev/icons?i=c,c++,git,github,ai,ps,vim,vscode,gmail,discord&perline=14" />
   </a>
 </p>
